@@ -77,3 +77,10 @@ D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\obj\Debug\PTUDW.csproj.CoreComp
 D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\obj\Debug\PTUDW.csproj.CopyComplete
 D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\obj\Debug\PTUDW.dll
 D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\obj\Debug\PTUDW.pdb
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\EntityFramework.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\EntityFramework.SqlServer.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\MyClass.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\MyClass.pdb
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\MyClass.dll.config
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\EntityFramework.xml
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\PTUDW\bin\EntityFramework.SqlServer.xml

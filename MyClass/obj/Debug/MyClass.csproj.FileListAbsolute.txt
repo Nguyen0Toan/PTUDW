@@ -1,0 +1,12 @@
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\MyClass.dll.config
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\MyClass.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\MyClass.pdb
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\EntityFramework.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\EntityFramework.SqlServer.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\EntityFramework.xml
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\bin\Debug\EntityFramework.SqlServer.xml
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\obj\Debug\MyClass.csproj.AssemblyReference.cache
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\obj\Debug\MyClass.csproj.CopyComplete
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\obj\Debug\MyClass.dll
+D:\STUDY\UploadForGit\ProjectASP.NET\PTUDW\MyClass\obj\Debug\MyClass.pdb
