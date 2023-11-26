@@ -17,5 +17,10 @@ namespace PTUDW
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
+
+        public void Session_Start()
+        {
+            Session["UserID"] = "1";
+        }
     }
 }
