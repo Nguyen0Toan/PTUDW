@@ -6,12 +6,12 @@
 }
 
 @section header{
-<link rel="stylesheet" href="~/Public/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="~/Public/css/jquery.dataTables.min.css" />
 }
 
 @section footer{
-<script src="~/Public/js/jquery.dataTables.min.js"></script>
-<script>let table = new DataTable('#myTable');</script>
+    <script src="~/Public/js/jquery.dataTables.min.js"></script>
+    <script>let table = new DataTable('#myTable');</script>
 }
 
 @using (Html.BeginForm())
@@ -63,6 +63,7 @@
                                             </span>
                                         </div><!--end_card-header-->
                                         @*----Menu con loai san pham----*@
+
                                         <div id="collapseCategory" class="collapse p-2 m-2" aria-labelledby="headingCategory" data-parent="#accordionExample">
                                             @foreach (var cat in ViewBag.CatList)
                                             {
